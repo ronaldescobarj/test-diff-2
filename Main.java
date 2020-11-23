@@ -4,7 +4,7 @@ public class TestClass extends SuperClass {
 
   public String newVar = "my var";
   public int myVar = 9;
-  public long longVar = 123456789;
+  public long longVar = 987654321;
   private String newString = "new string";
   private boolean newBoolean = true;
 
